@@ -1,6 +1,6 @@
 ## Запуск приложения
 1. Клонировать проект командой:  
-   git clone 
+   git clone https://github.com/anastas-gud/admin_docker_test.git
 2. При запуске приложения в IDE
    - скорректировать параметры подключения к БД в файле src/main/resources/application.properties;
 3. Для запуска приложения и БД в Docker:
